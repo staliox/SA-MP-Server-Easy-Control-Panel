@@ -1,3 +1,16 @@
+# SA-MP-Server-Easy-Control-Panel
+A Samp Control Panel (UCP)
+
+# Features
+Change Server Name
+Change Server Password
+Restart Server
+Ban Player
+Ban Player IP
+Send Message To Server
+
+# Creator
+Staliox
 # معرفی
 وبسایتی کاملا ایرانی با قابلیت Open-Source بودن و کاملا فارسی و بهینه
 شما میتوانید با این وبسایت سرور سمپ خود را مدیریت کنید
@@ -11,4 +24,4 @@
 ارسال پیغام همگانی در سرور
 
 # سازندگان
-DrZeos - NimaBastaniw
+Staliox
